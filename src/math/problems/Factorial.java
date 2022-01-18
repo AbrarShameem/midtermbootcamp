@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Factorial {
 
-    private static int factRecursive(int number) {
+    static int factRecursive(int number) {
         if (number == 1)
             return 1;
 
