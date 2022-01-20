@@ -8,7 +8,6 @@ public class Sort {
 	 * Store all the sorted data into one of the databases.
 	 */
 
-
     public int[] selectionSort(int [] array){
         final long startTime = System.currentTimeMillis();
         int [] list = array;
