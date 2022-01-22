@@ -11,7 +11,6 @@ public class FortuneEmployee {
 	 * Services.
 	 *
 	 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
-	 *
 	 **/
 	public static void main(String[] args) {
 		
